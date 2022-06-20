@@ -8,7 +8,7 @@ Date: 20/06/2022, afternoon CEST
 - [Antonio Bussani](https://github.com/abussani)
 - [Callum Rollo](https://github.com/callumrollo)
 - [Pierre Testor](https://github.com/ptestor)
-- [First Name Last Name](github link)
+- [Christine Loughlin](https://github.com/cloughlin)
 
 ## Agenda:
 1. OceanGliders GitHub Community
